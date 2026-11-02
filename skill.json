@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-ocular-tear-film-breakup-ergonomics-skill",
+  "version": "1.0.0",
+  "description": "Deterministic personal agent skill for monitoring Ocular Protection Index (OPI), Non-Invasive Tear Breakup Time (NIBUT), blink dynamics, and digital asthenopia prevention.",
+  "author": "GenPark Autonomous Agents Ecosystem",
+  "license": "MIT",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "mcp_server.py"
+}
